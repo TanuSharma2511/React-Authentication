@@ -1,0 +1,10 @@
+.lead{
+    display:flex;
+    justify-content: space-between;
+}
+.links{
+    width:200px;
+    height:50px;
+    color:#fff;
+    background:#41a7f2;
+}

@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+}
+.Appjs{
+    min-height:100vh;
+    background-image: linear-gradient(120deg, #a1cef3 0%, #b6beb7 100%);
+
+}
