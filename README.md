@@ -1,6 +1,6 @@
-# MERN Shopping List
+# MERN Authentication Project
 
-> Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
+> User can loin and register itself
 
 ## Quick Start
 
